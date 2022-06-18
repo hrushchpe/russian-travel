@@ -2,11 +2,7 @@
     font-size: 18px;
     line-height: 20px;
     color: #fff;
-    text-decoration: none;
     transition: opacity .1s linear;
-}
-.header__lang-link:first-child {
-    text-decoration: underline;
 }
 .header__lang-link:hover {
     opacity: .6;

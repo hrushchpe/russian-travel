@@ -3,4 +3,10 @@
     font-family: 'Inter', Arial, sans-serif;
     margin-top: 66px;
     flex-direction: column;
+    max-width: 1184px;
+}
+@media screen and (min-width: 1180px) {
+     .cover {
+         margin: 92px 48px 0;
+     }
 }

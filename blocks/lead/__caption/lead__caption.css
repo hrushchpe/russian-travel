@@ -5,6 +5,7 @@
     letter-spacing: 1.5px;
     margin: 8px 0 0 16px;
     align-self: flex-start;
+    text-transform: uppercase;
 }
 @media screen and (min-width: 768px) {
     .lead__caption {
