@@ -1,0 +1,6 @@
+.cover {
+    display: flex;
+    font-family: 'Inter', Arial, sans-serif;
+    margin-top: 66px;
+    flex-direction: column;
+}

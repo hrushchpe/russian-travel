@@ -1,0 +1,18 @@
+.lead__image-container {
+    margin: 40px 0 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+@media screen and (min-width: 928px) {
+    .lead__image-container {
+        margin: 56px auto 0;
+        width: calc(100% - 48px - 48px);
+    }
+}
+@media screen and (min-width: 1280px) {
+    .lead__image-container {
+        width: calc(100% - 148px - 148px);
+    }
+}

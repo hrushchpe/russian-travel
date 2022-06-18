@@ -1,0 +1,9 @@
+.page__content {
+    margin-top: 48px;
+    margin-bottom: 64px;
+}
+@media screen and (min-width: 1140px) {
+    .page__content {
+        margin-top: 56px;
+    }
+}
