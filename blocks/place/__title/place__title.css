@@ -23,8 +23,6 @@
 }
 @media screen and (min-width: 1000px) {
     .place__title {
-        font-size: 72px;
-        line-height: 76px;
         max-width: 460px;
     }
 }
